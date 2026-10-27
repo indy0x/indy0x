@@ -1,47 +1,32 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  README CYBERPUNK VIOLET NÉON — Bastien                      ║
-     ║  Profil GitHub : indy0x                                       ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════ HEADER ══════════════ -->
+<p align="center">
+  <img src="./banner.jpeg" width="100%" alt="Cyberpunk city banner" />
+</p>
 
-<!-- ═══════════════ BANNIÈRE (clair / sombre) ═══════════════ -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d0221,40:3d0066,75:8000ff,100:df00fe&text=BASTIEN&fontColor=00f3ff&fontSize=80&fontAlignY=42&desc=//%20cybersecurity%20·%20linux%20·%20hacking&descAlignY=64&descSize=18&animation=fadeIn&stroke=b026ff&strokeWidth=2" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:f3e8ff,50:d8b4fe,100:b026ff&text=BASTIEN&fontColor=3d0066&fontSize=80&fontAlignY=42&desc=//%20cybersecurity%20·%20linux%20·%20hacking&descAlignY=64&descSize=18&animation=fadeIn&stroke=8000ff&strokeWidth=2" />
-    <img alt="Bannière cyberpunk" width="100%"
-      src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d0221,40:3d0066,75:8000ff,100:df00fe&text=BASTIEN&fontColor=00f3ff&fontSize=80&fontAlignY=42&animation=fadeIn" />
-  </picture>
-</div>
+<h1 align="center" style="text-shadow: 0 0 10px #ff00ff, 0 0 20px #00ffff;">⚡ Welcome to my profile ⚡</h1>
 
-<!-- ═══════════════ TITRE ═══════════════ -->
-<h1 align="center">Salut, je suis Bastien <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="👋"></h1>
-
-<!-- ═══════════════ TYPING SVG ═══════════════ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=DF00FE&center=true&vCenter=true&multiline=false&width=620&height=50&lines=%3E+Étudiant+en+cybersécurité+%40+École+2600;%3E+Linux+%2F+Debian+addict+%F0%9F%90%A7;%3E+Docker+%C2%B7+Bash+%C2%B7+Python;%3E+En+recherche+d'alternance+cyber+%E2%9A%A1;%3E+sudo+rm+-rf+%2Fboredom" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=700&color=FF00FF&center=true&vCenter=true&width=640&height=50&lines=%3E%20Cybersecurity%20student%20%40%20Ecole%202600;%3E%20Blue%20Team%20%7C%20SOC%20%C2%B7%20CTI%20%C2%B7%20Forensics;%3E%20DevOps%20%26%20Homelab%20tinkerer;%3E%20AI%20%26%20Security%20enthusiast;%3E%20Looking%20for%20an%20apprenticeship%20(Sept.%202027)" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ═══════════════ BADGES STATS ═══════════════ -->
 <p align="center">
   <a href="https://github.com/indy0x?tab=followers">
-    <img src="https://img.shields.io/github/followers/indy0x?label=Abonnés&style=for-the-badge&logo=github&logoColor=00f3ff&labelColor=0d0221&color=b026ff" alt="Abonnés" />
+    <img src="https://img.shields.io/github/followers/indy0x?label=Followers&style=for-the-badge&logo=github&logoColor=0d0221&labelColor=00f3ff&color=ff00ff" alt="Followers" />
   </a>
   &nbsp;
   <a href="https://github.com/indy0x?tab=repositories">
-    <img src="https://img.shields.io/github/stars/indy0x?label=Étoiles&style=for-the-badge&logo=starship&logoColor=00f3ff&labelColor=0d0221&color=8000ff" alt="Étoiles" />
+    <img src="https://img.shields.io/github/stars/indy0x?label=Stars&style=for-the-badge&logo=github&logoColor=0d0221&labelColor=ff00ff&color=00f3ff" alt="Stars" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=indy0x&label=Vues&style=for-the-badge&color=df00fe&labelColor=0d0221" alt="Vues du profil" />
+  <img src="https://komarev.com/ghpvc/?username=indy0x&label=Views&style=for-the-badge&color=b026ff&labelColor=0d0221" alt="Profile views" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="séparateur" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00f3ff,50:ff00ff,100:8000ff" width="100%" alt="" />
 
-<!-- ═══════════════ À PROPOS ═══════════════ -->
-<h2 align="center">⟨ À propos de moi ⟩</h2>
+<!-- ══════════════ ABOUT ME ══════════════ -->
+<h2 align="center">🌌 ⟨ About me ⟩</h2>
 
 <div align="center">
 <table>
@@ -50,89 +35,95 @@
 
 ```yaml
 whoami:
-  nom: Bastien
-  école: École 2600
-  domaine: Cybersécurité
-  statut: En recherche d'alternance (sept. 2027)
+  name: Indy (Bastien)
+  role: 2nd Year Cybersecurity Student
+  status: Looking for an apprenticeship (Sept. 2027)
 
-  focus:
-    - Sécurité offensive & défensive
-    - Administration Linux (Debian)
-    - Conteneurisation avec Docker
-    - Maths appliquées à l'IA & sa sécurité
+personal:
+  - 🛠️ currently_building: My personal homelab
+  - 🌍 offline_hobbies: Sport, music & travel
+  - 🎮 video_games: Counter-Strike 2, League of Legends, Clair Obscur: Expedition 33
 
-  setup: Debian + KDE Plasma 6
-  devise: "Hack the planet ⚡"
+focus:
+  - 🛡️ Blue Team: SOC, CTI (Cyber Threat Intelligence) & Digital Forensics
+  - ⚙️ DevOps & Sysadmin: Infrastructure as Code & Automation
+  - 🧠 AI & Security: Applied Mathematics, Machine Learning & Deep Learning
+  - 🔌 Hardware/Embedded: Tinkering with fun DIY mini-projects & microcontrollers
+
+setup: Debian + KDE Plasma 6
+devise: "Hack the planet ⚡"
 ```
 
   </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/indy0x.png" width="230" style="border-radius:50%" alt="Photo de profil" />
+      <img src="https://github.com/indy0x.png" width="230" alt="Profile picture" />
     </td>
   </tr>
 </table>
 </div>
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-<h2 align="center">⟨ Tech Stack ⟩</h2>
+<!-- ══════════════ TECH STACK ══════════════ -->
+<h2 align="center">🚀 ⟨ Tech Stack ⟩</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,kali,bash,py,c,docker,git,github&theme=dark&perline=9" alt="Stack principale" />
+    <img src="https://skillicons.dev/icons?i=linux,debian,py,bash,c,cpp,assembly,powershell,docker&theme=dark" alt="Tech stack" />
   </a>
-  <br/><br/>
+  <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,vscode,nginx,mysql,html,js,md,windows&theme=dark&perline=8" alt="Outils" />
+    <img src="https://skillicons.dev/icons?i=terraform,githubactions,git,vscode,windows,arduino,raspberrypi,tensorflow&theme=dark" alt="Tools" />
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="séparateur" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8000ff,50:ff00ff,100:00f3ff" width="100%" alt="" />
 
-<!-- ═══════════════ STATS : STREAK + ACTIVITÉ ═══════════════ -->
-<h2 align="center">⟨ Activité ⟩</h2>
+<!-- ══════════════ STATS & EXPERTISE ══════════════ -->
+<h2 align="center">👾 ⟨ Stats & Expertise ⟩</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=indy0x&background=0d0221&border=b026ff&ring=df00fe&fire=00f3ff&currStreakNum=00f3ff&sideNums=df00fe&currStreakLabel=b026ff&sideLabels=b026ff&dates=8000ff&stroke=3d0066&hide_border=false&border_radius=12&locale=fr" alt="GitHub Streak" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indy0x&layout=compact&langs_count=8&hide_border=false&bg_color=0d0221&title_color=00f3ff&text_color=ffffff&border_color=ff00ff&border_radius=12" height="170" alt="Top languages" />
+  &nbsp;
+  <a href="https://profile.hackthebox.com/profile/01a11653-3350-70e1-9a7b-b3fc5850f354">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-indy0x-9fef00?style=for-the-badge&logo=hackthebox&logoColor=9fef00&labelColor=0d0221" alt="Hack The Box" />
+  </a>
+</p>
+
+<!-- ══════════════ ACTIVITY ══════════════ -->
+<h2 align="center">🌙 ⟨ Activity ⟩</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=indy0x&background=0d0221&border=ff00ff&ring=00f3ff&fire=ff00ff&currStreakNum=00f3ff&sideNums=ff00ff&currStreakLabel=00f3ff&sideLabels=ffffff&dates=b026ff&stroke=8000ff&border_radius=12" width="80%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indy0x&bg_color=0d0221&color=df00fe&line=b026ff&point=00f3ff&area=true&area_color=8000ff&title_color=00f3ff&hide_border=true&radius=12&custom_title=Graphique%20de%20contributions" alt="Graphique d'activité" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indy0x&theme=radical" width="100%" alt="Contribution activity" />
 </p>
 
-<!-- ═══════════════ SNAKE ═══════════════ -->
-<!--
-  ⚙️ CONFIGURATION DU SNAKE :
-  1. Crée le fichier .github/workflows/snake.yml dans ce dépôt (fourni à côté de ce README).
-  2. Va dans Settings → Actions → General → Workflow permissions → coche "Read and write permissions".
-  3. Lance le workflow une première fois à la main (onglet Actions → "Generate Snake" → Run workflow).
-  4. Le SVG sera publié sur la branche "output" et se mettra à jour toutes les 12 h.
--->
-<h2 align="center">⟨ Contribution Snake ⟩</h2>
+<!-- ══════════════ SNAKE ══════════════ -->
+<!-- Generated by .github/workflows/snake.yml (branch "output") -->
+<h2 align="center">🐍 ⟨ Contribution Snake ⟩</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/indy0x/indy0x/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/indy0x/indy0x/output/github-snake.svg" />
-    <img alt="Contribution snake" width="100%"
-      src="https://raw.githubusercontent.com/indy0x/indy0x/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indy0x/indy0x/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indy0x/indy0x/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/indy0x/indy0x/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
   </picture>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="séparateur" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00f3ff,50:ff00ff,100:8000ff" width="100%" alt="" />
 
-<!-- ═══════════════ CONTACT ═══════════════ -->
-<h2 align="center">⟨ Contact ⟩</h2>
+<!-- ══════════════ CONTACT ══════════════ -->
+<h2 align="center">📡 ⟨ Contact ⟩</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bastien-leautey-451a77384/"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00f3ff&color=8000ff" alt="LinkedIn" /></a>
-  <a href="mailto:bastienleautey2@gmail.com"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=00f3ff&color=b026ff" alt="Email" /></a>
-  <a href="https://discordapp.com/users/730507745962361023"><img src="https://img.shields.io/badge/Discord-0d0221?style=for-the-badge&logo=discord&logoColor=00f3ff&color=df00fe" alt="Discord" /></a>
-  <a href="https://steamcommunity.com/profiles/76561198998737672/"><img src="https://img.shields.io/badge/Steam-0d0221?style=for-the-badge&logo=steam&logoColor=00f3ff&color=8000ff" alt="Steam" /></a>
+  <a href="mailto:bastienleautey2@gmail.com"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=0d0221&color=00f3ff" alt="Email" /></a>
+  <a href="https://discordapp.com/users/730507745962361023"><img src="https://img.shields.io/badge/Discord-0d0221?style=for-the-badge&logo=discord&logoColor=ffffff&color=ff00ff" alt="Discord" /></a>
+  <a href="https://steamcommunity.com/profiles/76561198998737672/"><img src="https://img.shields.io/badge/Steam-0d0221?style=for-the-badge&logo=steam&logoColor=00f3ff&color=b026ff" alt="Steam" /></a>
 </p>
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
+<!-- ══════════════ FOOTER ══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:df00fe,50:8000ff,100:0d0221&animation=twinkling" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00f3ff,45:ff00ff,100:8000ff&animation=twinkling" width="100%" alt="footer" />
 </p>
